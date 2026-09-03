@@ -1,0 +1,1 @@
+O projeto foi "contratado" por uma padaria da região para criar um sistema de agenda de entregas, o projeto está dividido em alguns objetivos listados a baixo, o time tem apenas duas pessoas.
