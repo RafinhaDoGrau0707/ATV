@@ -7,3 +7,7 @@ criado para facilitar o seu café da manhã de maneira agil e pratica na porta d
 data de entrega sera todos dias as 7horas da manhã no endereço
 
 endereço da padaria:Bairro: Uni123 rua: fran456 numero: 789
+
+data de entrega sera todos dias as 7horas da manhã no endereço
+
+Donos da Padaria e responsaveis pela entrega:Olavo e Rafael, pela entrega Olavo
