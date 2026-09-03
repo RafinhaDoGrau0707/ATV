@@ -10,4 +10,4 @@ data de entrega sera todos dias as 7horas da manhã no endereço
 
 
 
-Donos da Padaria e responsaveis pela entrega:Olavo e Rafael
+Donos da Padaria e responsaveis pela entrega:Olavo e Rafael, pela entrega Olavo
